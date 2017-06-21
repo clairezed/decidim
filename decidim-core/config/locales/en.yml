@@ -206,8 +206,6 @@ en:
         results:
           results_count: Results
           comments_count: Results comments
-        pages:
-          comments_count: Pages comments
         meetings:
           meetings_count: Meetings
         budgets:
@@ -216,6 +214,7 @@ en:
           orders_count: Orders
         pages:
           pages_count: Pages
+          comments_count: Pages comments
         surveys:
           surveys_count: Surveys
           answers_count: Answers
